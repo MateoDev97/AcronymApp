@@ -3,3 +3,16 @@
 Application that searches acronyms.
 
 It uses the api http://www.nactem.ac.uk/software/acromine/rest.html
+
+
+## Libraries used
+
+- Alamofire
+- SwiftyJSON
+- IQKeyboardManagerSwift
+
+
+## Architecture
+
+- VIPER
+
